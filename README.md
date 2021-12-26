@@ -3,10 +3,12 @@
 
 # Preview
 
-### Screenshot
+### Screenshot Desktop View
 
 ![Admin Dashboard template preview](https://github.com/searchingzero/Responsive-Admin-Dashboard-Without-External-Lib/blob/main/admin%20dashboard%20desktop.jpg)
+### Screenshot Mobile View
 ![Admin Dashboard template preview](https://github.com/searchingzero/Responsive-Admin-Dashboard-Without-External-Lib/blob/main/admin%20dashboard%20mobile%20view.jpg)
+### Screenshot Tab View
 ![Admin Dashboard template preview](https://github.com/searchingzero/Responsive-Admin-Dashboard-Without-External-Lib/blob/main/admin%20dashboard%20tab%20view.jpg)
 ## License
 
